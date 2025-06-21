@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('💻🧠 Sentiment Analysis App')
 
-st.write('Hello world!')
+st.info('Machine learning app used for sentiment analysis with BERT Model')
