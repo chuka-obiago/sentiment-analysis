@@ -16,7 +16,7 @@ model = load_model()
 # Set up the page
 st.set_page_config(page_title="Sentiment Analysis", page_icon="💬")
 st.title('💬 Sentiment Analysis App')
-st.write("This app predicts whether your feedback is **Positive**, **Neutral**, or **Negative** using a trained machine learning mmodel.")
+st.write("This app predicts whether your feedback is **Positive**, **Neutral**, or **Negative** using machine learning.")
 
 # Input field
 user_input = st.text_area("Type your feedback or review here:", height=150, placeholder="e.g. The rice is very nice")
