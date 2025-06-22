@@ -13,5 +13,3 @@ This is a simple web application for performing sentiment analysis on user feedb
 - Clean and minimal UI
 - Built with Streamlit and powered by machine learning
 
-## 📦 Project Structure
-
