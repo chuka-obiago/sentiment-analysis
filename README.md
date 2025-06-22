@@ -4,7 +4,7 @@ This is a simple web application for performing sentiment analysis on user feedb
 
 ## 🚀 Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentiment-analysis.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oc-sentiment-analysis.streamlit.app/)
 
 ## 💡 Features
 
